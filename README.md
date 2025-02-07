@@ -7,7 +7,7 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-> Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
+> Status do Projeto: :heavy_check_mark: :warning: (concluído - 1ª etapa "Funcionalidades")
 
 ### Tópicos 
 
@@ -61,16 +61,12 @@
 
 ## Layout ou Deploy da Aplicação :dash:
 
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
-
-... 
-
-<img src="assets/tela.png">
+<div align="center">
+  <img src="assets/tela.png" width="500" alt="Tela Inicial">
+</div>
 
 ## Pré-requisitos
 :...
-
-## JSON :floppy_disk:
 
 ### Usuários: 
 
@@ -109,4 +105,4 @@ Liste o time responsável pelo desenvolvimento do projeto
 
 
 
-Copyright :copyright: Ano - Amigo Secreto
+Copyright :copyright: 2025 - Amigo Secreto
