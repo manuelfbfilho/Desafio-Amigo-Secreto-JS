@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=javascript&message=framework&color=blue&style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/static/v1?label=html&message=deploy&color=blue&style=for-the-badge&logo=html"/>
-  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=CSS&message=styled&color=green&style=for-the-badge&logo=css"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
 > Status do Projeto: :heavy_check_mark: :warning: (concluído - 1ª etapa "Funcionalidades")
